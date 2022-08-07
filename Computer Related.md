@@ -78,9 +78,9 @@
 
 2022-02-24 08:17 [Archcraft](https://fivemm.shop/)
 
-2022-02-24 08:17 [Best Linux and Cloud Training Certification Pricing | Linux Academy](https://linuxacademy.com/join/pricing?redirect=%2Fcp%2Fmodules%2Fview%2Fid%2F38)
-
 2022-02-24 08:17 [Best Linux and Cloud Training Certification Pricing | Linux Academy](https://acloudguru.com/pricing)
+
+2022-02-24 08:17 [Best Linux and Cloud Training Certification Pricing | Linux Academy](https://linuxacademy.com/join/pricing?redirect=%2Fcp%2Fmodules%2Fview%2Fid%2F38)
 
 2022-03-24 06:56 [Garuda Linux Official website](https://www.garudalinux.org/)
 
@@ -206,9 +206,9 @@
 
 2022-03-25 00:17 [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/)
 
-2022-02-24 08:17 [UNIX and Linux Essentials| Solaris 11 Administration | Oracle Solaris | Operating Systems | Training| Oracle](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?get_params=dc%3AD76989%2Cclang%3AEN&page_id=609)
-
 2022-02-24 08:17 [UNIX and Linux Essentials| Solaris 11 Administration | Oracle Solaris | Operating Systems | Training| Oracle](https://education.oracle.com/oracle-it-infrastructure-learning-subscription/ls_50041)
+
+2022-02-24 08:17 [UNIX and Linux Essentials| Solaris 11 Administration | Oracle Solaris | Operating Systems | Training| Oracle](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?get_params=dc%3AD76989%2Cclang%3AEN&page_id=609)
 
 2022-03-23 07:02 [Welcome to devuan.org | Devuan GNU+Linux Free Operating System](https://www.devuan.org/)
 
@@ -1136,9 +1136,9 @@
 
 2022-02-24 08:17 [App Downloads for Windows - Download, Discover, Share on Uptodown](https://en.uptodown.com/windows)
 
-2021-11-19 13:07 [Applications Windows - SoftArchive](https://sanet.st/applications/filter?subcategory%5B%5D=windows)
-
 2022-02-24 08:17 [Applications Windows - SoftArchive](https://sanet.st/applications/filter/page-9?subcategory%5B0%5D=windows&tag%5B0%5D=System+Tools)
+
+2021-11-19 13:07 [Applications Windows - SoftArchive](https://sanet.st/applications/filter?subcategory%5B%5D=windows)
 
 2021-12-16 20:57 [Beeftext](https://beeftext.org/?ref=producthunt)
 
