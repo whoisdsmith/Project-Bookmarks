@@ -244,17 +244,17 @@
 
 2016-09-26 08:06 [Quick Documentation Workflows with Clarify](https://blog.timowens.io/quick-documentation-workflows-with-clarify-2/)
 
-2016-09-28 12:17 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/54u6w8/discussion_what_clever_activator_actions_do_you)
-
 2016-09-27 21:03 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/336o03/could_someone_please_walk_me_through_how_to)
 
 2016-09-27 21:02 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/44u56d/question_running_commands_in_activator)
 
 2016-09-27 21:02 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/4zl9r9/question_whats_wrong_with_my_activate_command)
 
+2016-09-27 21:01 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/50mudn/question_how_to_run_an_app_in_background_with)
+
 2016-09-27 21:01 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/53hjdm/discussion_learning_shell_commands_to_do_more)
 
-2016-09-27 21:01 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/50mudn/question_how_to_run_an_app_in_background_with)
+2016-09-28 12:17 [r/jailbreak](https://www.reddit.com/r/jailbreak/comments/54u6w8/discussion_what_clever_activator_actions_do_you)
 
 2016-09-26 07:54 [Slogger with Day One 2 - BrettTerpstra.com](https://brettterpstra.com/2016/02/04/slogger-with-day-one-2/)
 
