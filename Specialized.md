@@ -20,6 +20,8 @@
 
 2022-03-03 12:40 [Ä1 - All In One Advanced Search](https://xn--1-zfa.com/)
 
+2022-03-28 07:13 [Carrot2 search results clustering engine](https://search.carrot2.org/#/search/web)
+
 2022-03-12 14:48 [DuckDuckGo !Bang](https://duckduckgo.com/bang)
 
 2022-04-08 04:28 [Indeed - CSE](https://cse.google.com/cse?cx=012951739560700154499%3Awq3e6dpqvt4)
@@ -37,8 +39,6 @@
 2022-03-17 19:23 [Search Engine Forums - SEO Tools, Communities, Blogs, Podcasts and Conferences](https://www.searchengineforums.com/)
 
 2022-03-17 20:03 [Stork Search](https://stork-search.net/)
-
-2022-03-28 07:13 [Carrot2 search results clustering engine](https://search.carrot2.org/#/search/web)
 
 ######  Search Strings
 
