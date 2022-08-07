@@ -92,6 +92,10 @@
 
 2022-02-24 08:17 [Bing](https://bing.start.me/?a=gsb_startme_00_00_ssg01)
 
+2022-02-24 08:17 [Bing](https://www.bing.com/?FORM=HDRSC1&mkt=en-US&scope=web)
+
+2022-02-24 08:17 [Bing](https://www.bing.com/?redig=E5D9D6F7D2904A0FB25FB4A22C8D9BC7&toHttps=1)
+
 2022-02-24 08:17 [Brave Search](https://search.brave.com/)
 
 2022-02-24 08:17 [Chrome Web Store Search Engine](https://cse.google.com/cse?cx=006205189065513216365%3Apn3lumi80ne)
@@ -138,6 +142,8 @@
 
 2022-02-24 08:17 [Google Custom Search General](https://cse.google.co.uk/cse?cx=002717229081227036262%3Ae-izaongzem)
 
+2022-02-24 08:17 [Google Custom Search General Search](https://cse.google.com/cse?cx=006290293500274389662%3Aa3q8k-q0xpw)
+
 2022-02-24 08:17 [Google Custom Search General Search](https://cse.google.com/cse?cx=011545203169215625696%3A-yygy0imnne&hl=en)
 
 2022-02-24 08:17 [Google Custom Search General Search plus](https://cse.google.com/cse?cx=011507650028433360591%3Amw4qttke1oe)
@@ -174,9 +180,13 @@
 
 2022-02-24 08:17 [Presearch](https://presearch.com/)
 
+2021-11-21 20:38 [Programmable Search - Congratulations!](https://accounts.google.com/v3/signin/identifier?dsh=S-1090329676%3A1659825224436059&continue=https%3A%2F%2Fcse.google.com%2Fcse%2Fcreate%2Fcongrats%3Fcx%3D87fbaa5440fa3e4dd&gl=us&hl=en&passive=true&service=cprose&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWj1j2mAgC90hOJ0IuuZf6hKci2_81d19Pf-F3JlIvJ4OXckn3IpUOmI0Ykfj-kntwzaYFROw)
+
 2021-11-21 20:38 [Programmable Search - Congratulations!](https://accounts.google.com/v3/signin/identifier?dsh=S1493786849%3A1659824020119924&continue=https%3A%2F%2Fcse.google.com%2Fcse%2Fcreate%2Fcongrats%3Fcx%3D87fbaa5440fa3e4dd&gl=us&hl=en&passive=true&service=cprose&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmXhAA8nrColDTC-OJO0h31Eaie-K59SessCkdGdjCmf1aiPM4TCO8gpoayC7Rl4sqt0za6y)
 
 2022-02-24 08:17 [Qwant](https://www.qwant.com/)
+
+2022-03-12 18:25 [Qwant](https://www.qwant.com/?q=)
 
 2022-02-24 08:17 [Qwant Search](https://www.qwant.com/?q=jonah+krause&t=all)
 
@@ -195,16 +205,6 @@
 2022-02-24 08:17 [Yandex (RU)](https://yandex.ru/)
 
 2022-02-24 08:17 [Yandex Russian, English version](https://yandex.com/)
-
-2022-02-24 08:17 [Bing](https://www.bing.com/?redig=E5D9D6F7D2904A0FB25FB4A22C8D9BC7&toHttps=1)
-
-2022-02-24 08:17 [Bing](https://www.bing.com/?FORM=HDRSC1&mkt=en-US&scope=web)
-
-2022-02-24 08:17 [Google Custom Search General Search](https://cse.google.com/cse?cx=006290293500274389662%3Aa3q8k-q0xpw)
-
-2021-11-21 20:38 [Programmable Search - Congratulations!](https://accounts.google.com/v3/signin/identifier?dsh=S-1090329676%3A1659825224436059&continue=https%3A%2F%2Fcse.google.com%2Fcse%2Fcreate%2Fcongrats%3Fcx%3D87fbaa5440fa3e4dd&gl=us&hl=en&passive=true&service=cprose&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWj1j2mAgC90hOJ0IuuZf6hKci2_81d19Pf-F3JlIvJ4OXckn3IpUOmI0Ykfj-kntwzaYFROw)
-
-2022-03-12 18:25 [Qwant](https://www.qwant.com/?q=)
 
 
 
