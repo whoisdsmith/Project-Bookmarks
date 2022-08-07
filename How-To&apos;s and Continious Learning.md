@@ -6,9 +6,9 @@
 
 2022-01-18 07:34 [&quot;&gt;Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
-2022-01-17 14:47 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/07/29/pandoc-and-hanging-indents/)
-
 2022-01-17 14:48 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/06/30/batch-convert-files-with-pandoc/)
+
+2022-01-17 14:47 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/07/29/pandoc-and-hanging-indents/)
 
 2022-01-17 14:47 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/07/29/wrapping-code-blocks-in-print/)
 
@@ -45,8 +45,6 @@
 2022-07-02 10:42 [Command Challenge!](https://cmdchallenge.com/)
 
 2022-07-10 21:14 [Commands.dev - Find commands at the speed of thought](https://www.commands.dev/?utm_source=producthunt.com&utm_medium=post&utm_campaign=commands&ref=producthunt)
-
-2022-01-24 21:22 [Dev Community - DevDojo](https://devdojo.com/)
 
 2022-03-16 14:07 [Dev Resources - A collaborative list of 2100+ resources for developers](https://devresourc.es/)
 
