@@ -142,9 +142,9 @@
 
 2022-02-24 08:17 [&quot;&gt;SECO Verification of Course Attendance 2018](https://c0esh132.caspio.com/dp/9040200005c29c35a74342e2b357)
 
-2022-02-24 08:17 [&quot;&gt;Social Security Death Index](https://www.ancestry.com/search/collections/3693/)
-
 2022-02-24 08:17 [&quot;&gt;Social Security Death Index](https://stevemorse.org/ssdi/ssdi.html)
+
+2022-02-24 08:17 [&quot;&gt;Social Security Death Index](https://www.ancestry.com/search/collections/3693/)
 
 2022-02-24 08:17 [&quot;&gt;Social Security Death Master File](https://ssdmf.info/)
 
