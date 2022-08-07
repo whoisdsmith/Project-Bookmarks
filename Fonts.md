@@ -40,9 +40,9 @@
 
 2022-02-24 08:17 [Befonts](https://befonts.com/)
 
-2021-11-19 13:07 [Browse Popular All Time | DeviantArt](https://www.deviantart.com/search?q=free+font)
-
 2021-11-14 10:00 [Browse Popular All Time | DeviantArt](https://www.deviantart.com/search?q=free%20font)
+
+2021-11-19 13:07 [Browse Popular All Time | DeviantArt](https://www.deviantart.com/search?q=free+font)
 
 2021-11-19 13:07 [Calligraphr - Draw your own fonts.](https://www.calligraphr.com/en/)
 
