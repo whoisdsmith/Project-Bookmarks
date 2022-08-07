@@ -36,6 +36,8 @@
 
 2022-02-24 08:17 [Google Custom Search DivShare School Docs](https://cse.google.com/cse?cx=017486593862980384588%3Awyw7npm1de4)
 
+2022-02-24 08:17 [Google Custom Search Doc Search](https://cse.google.com/cse?cx=009679435902400177945%3Awhgvsi86pmo)
+
 2022-02-24 08:17 [Google Custom Search Doc Search](https://cse.google.com/cse?cx=partner-pub-3515348084564366%3A4202656657)
 
 2022-02-24 08:17 [Google Custom Search DocGo.Net](https://cse.google.com/cse?cx=004686066773562218566%3Ashnp0owfxji)
@@ -56,6 +58,8 @@
 
 2022-02-24 08:17 [Google Custom Search Google File Search](https://cse.google.com/cse?cx=005524257534178064433%3A43qyxjr7upa)
 
+2022-02-24 08:17 [Google Custom Search Lists](https://cse.google.com/cse?cx=008655903951728234384%3Ap00kvkbsavm&hl=en)
+
 2022-02-24 08:17 [Google Custom Search Lists](https://cse.google.com/cse?cx=009462381166450434430%3Ajnry9fhskqg)
 
 2022-02-24 08:17 [Google Custom Search scribd](https://cse.google.com/cse?cx=013791148858571516042%3Agqsws13ehog&hl=en)
@@ -75,10 +79,6 @@
 2022-02-24 08:17 [Search for PDF CSE](https://cse.google.com/cse?cx=009462381166450434430%3Aefyzyfhat50)
 
 2022-02-24 08:17 [SearchShared.com](https://cse.google.com/cse?cx=004002012908077721647%3A1rl4dea84iw)
-
-2022-02-24 08:17 [Google Custom Search Doc Search](https://cse.google.com/cse?cx=009679435902400177945%3Awhgvsi86pmo)
-
-2022-02-24 08:17 [Google Custom Search Lists](https://cse.google.com/cse?cx=008655903951728234384%3Ap00kvkbsavm&hl=en)
 
 
 
