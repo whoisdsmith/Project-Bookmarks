@@ -38,6 +38,8 @@
 
 2022-02-24 08:17 [Bing](https://www.bing.com/)
 
+2022-02-24 08:17 [Dogpile](https://www.dogpile.com/?sc=CpFwKfjnECaf20)
+
 2022-02-24 08:17 [Ecosia](https://www.ecosia.org/)
 
 2022-02-24 08:17 [Ipse.io](https://www.ipse.io/)
@@ -47,8 +49,6 @@
 2022-02-24 08:17 [Startpage](https://www.startpage.com/)
 
 2022-02-24 08:17 [Vulnerability &amp; Exploit Database](https://www.rapid7.com/db/)
-
-2022-02-24 08:17 [Dogpile](https://www.dogpile.com/?sc=CpFwKfjnECaf20)
 
 
 
