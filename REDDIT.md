@@ -30,6 +30,8 @@
 
 2022-04-01 06:51 [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb)
 
+2022-03-31 17:20 [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba)
+
 2022-03-31 17:20 [Reddit search tool](https://www.aware-online.com/en/osint-tools/reddit-search-tool/)
 
 2022-04-01 06:51 [Reddit: RBI: Reddit Bureau of Investigation](https://www.reddit.com/r/RBI)
@@ -41,8 +43,6 @@
 2022-03-31 17:20 [Searcheddit](https://www.hugedomains.com/domain_profile.cfm?d=searcheddit.com)
 
 2022-03-31 17:20 [SocialGrep](https://socialgrep.com/search)
-
-2022-03-31 17:20 [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba)
 
 
 
