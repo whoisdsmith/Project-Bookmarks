@@ -10,6 +10,8 @@
 
 2022-07-30 18:57 [Google Domains - My domains](https://domains.google.com/registrar/?hl=en&_ga=2.152367161.1814506313.1659221389-1393227452.1659221389&pli=1)
 
+2022-08-07 09:55 [Home | Loophole](https://loophole.cloud/)
+
 2022-03-26 18:02 [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com/page/3?ref=websitehunt)
 
 2022-07-10 20:43 [Online Web Editor - ScribbleX](https://app.scribblex.net/?ref=producthunt)
