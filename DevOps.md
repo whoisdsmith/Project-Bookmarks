@@ -22,7 +22,15 @@
 
 2022-08-05 23:53 [Dev Army Knife](https://devarmyknife.hackersreboot.tech/explore)
 
+2022-01-24 21:22 [Dev Community - DevDojo](https://devdojo.com/)
+
+2022-08-07 09:57 [DEVICON | All programming languages and developme…](https://devicon.dev/?ref=freeStuffDev)
+
+2022-08-07 09:56 [DevPal - Home](https://devpal.co/?ref=freeStuffDev)
+
 2022-08-05 15:43 [Dustin Smith - Hell, Michigan | dev.page](https://dev.page/whoisdsmith)
+
+2022-08-07 09:56 [Filebase | Decentralized Storage Made Easy](https://filebase.com/?ref=freeStuffDev)
 
 2022-08-06 03:22 [Firefiles - Login](https://usefirefiles.vercel.app/login)
 
@@ -38,15 +46,23 @@
 
 2022-08-05 23:53 [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages/)
 
+2022-08-05 16:30 [GitLogs News - Discover The Top Trending Repos](https://www.gitlogs.com/awesome-topics)
+
 2022-08-05 16:27 [GitLogs News - Discover The Top Trending Repos](https://www.gitlogs.com/awesome-topics?ref=producthunt)
 
-2022-08-05 16:30 [GitLogs News - Discover The Top Trending Repos](https://www.gitlogs.com/awesome-topics)
+2022-08-07 09:57 [Gitter — Where developers come to talk.](https://gitter.im/?ref=freeStuffDev)
 
 2022-08-05 16:00 [GPRM : GitHub Profile ReadMe Maker](https://gprm.itsvg.in/)
 
 2022-07-30 21:11 [Hello: Search Engine for Developers](https://beta.sayhello.so/?ref=producthunt)
 
 2022-08-05 16:17 [Hookdoo Homepage](https://hookdoo.com/)
+
+2022-08-07 09:57 [Indie Hackers: Work Together to Build Profitable…](https://www.indiehackers.com/?ref=freeStuffDev)
+
+2022-08-07 13:19 [IT Tools - Handy online tools for developers](https://it-tools.tech/)
+
+2022-08-07 13:19 [IT Tools - Handy online tools for developers](https://it-tools.tech/?ref=producthunt)
 
 2022-08-06 03:35 [krystalgamer&amp;apos;s Blog](https://krystalgamer.github.io/index.html)
 
@@ -56,9 +72,13 @@
 
 2022-08-05 15:48 [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 
+2022-08-07 09:56 [Polypad – Scriptable Textpad](https://polypad.io/?ref=freeStuffDev)
+
 2022-08-05 16:02 [Raito | Mini Markdown CMS ✨📝 | Raito](https://arnaud.at/raito/?ref=producthunt#/)
 
 2022-08-05 15:59 [README GEN](https://readme-gen.vercel.app/app)
+
+2022-08-07 09:56 [Scrape and Monitor Data from Any Website with No…](https://www.browse.ai/?ref=freeStuffDev)
 
 2022-08-05 16:23 [Search | GitRelevant](https://gitrelevant.netlify.app/)
 
@@ -70,9 +90,9 @@
 
 2022-08-06 03:26 [Supabase | Supabase](https://app.supabase.com/)
 
-2022-08-05 16:23 [Track your Favorite Github Awesome Repo | Track Awesome List](https://www.trackawesomelist.com/?ref=producthunt)
-
 2022-08-05 16:23 [Track your Favorite Github Awesome Repo | Track Awesome List](https://www.trackawesomelist.com/)
+
+2022-08-05 16:23 [Track your Favorite Github Awesome Repo | Track Awesome List](https://www.trackawesomelist.com/?ref=producthunt)
 
 2022-08-05 16:18 [Tunshell - Remote shell into ephemeral environments](https://tunshell.com/?ref=producthunt)
 
@@ -666,19 +686,19 @@
 
 2021-12-27 12:05 [brew](https://github.com/Homebrew/brew)
 
-2022-01-20 09:32 [Build software better, together](https://github.com/topics/shell)
-
-2022-01-20 09:32 [Build software better, together](https://github.com/topics/parsing)
-
-2022-01-20 09:32 [Build software better, together](https://github.com/topics/npm)
-
-2022-01-20 09:31 [Build software better, together](https://github.com/topics/nodejs)
-
-2022-01-20 09:31 [Build software better, together](https://github.com/topics/jekyll)
+2022-01-20 09:30 [Build software better, together](https://github.com/topics/cli)
 
 2022-01-20 09:30 [Build software better, together](https://github.com/topics/homebrew)
 
-2022-01-20 09:30 [Build software better, together](https://github.com/topics/cli)
+2022-01-20 09:31 [Build software better, together](https://github.com/topics/jekyll)
+
+2022-01-20 09:31 [Build software better, together](https://github.com/topics/nodejs)
+
+2022-01-20 09:32 [Build software better, together](https://github.com/topics/npm)
+
+2022-01-20 09:32 [Build software better, together](https://github.com/topics/parsing)
+
+2022-01-20 09:32 [Build software better, together](https://github.com/topics/shell)
 
 2022-01-20 09:29 [Build software better, together](https://github.com/topics/terminal)
 
@@ -722,9 +742,9 @@
 
 2021-12-27 12:05 [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
 
-2022-02-24 08:17 [CocoaSPDY](https://github.com/twitter/CocoaSPDY)
-
 2021-12-27 12:05 [CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY)
+
+2022-02-24 08:17 [CocoaSPDY](https://github.com/twitter/CocoaSPDY)
 
 2021-12-27 12:05 [code_samples](https://github.com/tanant/code_samples)
 
@@ -2196,9 +2216,9 @@
 
 2022-03-26 17:43 [Stats.fm (formerly Spotistats)](https://stats.fm/?ref=producthunt)
 
-2022-03-14 06:43 [System](https://www.system.com/graph)
-
 2022-03-14 06:41 [System](https://www.system.com/?ref=producthunt)
+
+2022-03-14 06:43 [System](https://www.system.com/graph)
 
 2022-03-03 08:51 [Teller](https://github.com/SpectralOps/teller?ref=producthunt)
 
@@ -2482,8 +2502,6 @@
 
 2022-03-17 06:15 [&quot;&gt;Fancy Font Generator](https://qwerty.dev/fancy-font-generator/#beautiful-dingbats)
 
-2022-03-12 15:20 [&quot;&gt;Free for developers](https://free-for.dev/#/)
-
 2022-03-12 15:53 [&quot;&gt;Home - glot.io](https://glot.io/)
 
 2022-03-17 19:56 [&quot;&gt;Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
@@ -2550,6 +2568,8 @@
 
 2022-03-22 13:07 [Free Developer Stuff](https://freestuff.dev/)
 
+2022-03-12 15:20 [Free for developers](https://free-for.dev/#/)
+
 2022-03-11 09:14 [Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python...](https://books.goalkicker.com/)
 
 2022-03-12 00:26 [Full Catalog](https://www.codecademy.com/catalog/all)
@@ -2592,9 +2612,9 @@
 
 2022-01-18 07:34 [&quot;&gt;Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
-2022-01-17 14:47 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/07/29/pandoc-and-hanging-indents/)
-
 2022-01-17 14:48 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/06/30/batch-convert-files-with-pandoc/)
+
+2022-01-17 14:47 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/07/29/pandoc-and-hanging-indents/)
 
 2022-01-17 14:47 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/07/29/wrapping-code-blocks-in-print/)
 
@@ -2631,8 +2651,6 @@
 2022-07-02 10:42 [Command Challenge!](https://cmdchallenge.com/)
 
 2022-07-10 21:14 [Commands.dev - Find commands at the speed of thought](https://www.commands.dev/?utm_source=producthunt.com&utm_medium=post&utm_campaign=commands&ref=producthunt)
-
-2022-01-24 21:22 [Dev Community - DevDojo](https://devdojo.com/)
 
 2022-03-16 14:07 [Dev Resources - A collaborative list of 2100+ resources for developers](https://devresourc.es/)
 
@@ -2797,6 +2815,8 @@
 2022-07-16 20:51 [fullog | Modern Frontend Platform](https://fullog.io/?ref=producthunt)
 
 2022-07-30 18:57 [Google Domains - My domains](https://domains.google.com/registrar/?hl=en&_ga=2.152367161.1814506313.1659221389-1393227452.1659221389&pli=1)
+
+2022-08-07 09:55 [Home | Loophole](https://loophole.cloud/)
 
 2022-03-26 18:02 [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com/page/3?ref=websitehunt)
 
