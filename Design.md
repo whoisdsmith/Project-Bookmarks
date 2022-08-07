@@ -162,9 +162,9 @@
 
 2022-02-24 08:17 [Befonts](https://befonts.com/)
 
-2021-11-19 13:07 [Browse Popular All Time | DeviantArt](https://www.deviantart.com/search?q=free+font)
-
 2021-11-14 10:00 [Browse Popular All Time | DeviantArt](https://www.deviantart.com/search?q=free%20font)
+
+2021-11-19 13:07 [Browse Popular All Time | DeviantArt](https://www.deviantart.com/search?q=free+font)
 
 2021-11-19 13:07 [Calligraphr - Draw your own fonts.](https://www.calligraphr.com/en/)
 
@@ -846,9 +846,9 @@
 
 2022-02-24 08:17 [&quot;&gt;DesignersPics.com](https://www.designerspics.com/)
 
-2022-02-24 08:17 [&quot;&gt;Explore over 300,000 free stock photos and royalty free images - FreeImages.com](https://www.freeimages.com/pt)
-
 2022-02-24 08:17 [&quot;&gt;Explore over 300,000 free stock photos and royalty free images - FreeImages.com](https://www.freeimages.com/)
+
+2022-02-24 08:17 [&quot;&gt;Explore over 300,000 free stock photos and royalty free images - FreeImages.com](https://www.freeimages.com/pt)
 
 2022-02-24 08:17 [&quot;&gt;Free High-Resolution Stock Photos - ISO Republic](https://isorepublic.com/photos/)
 
