@@ -40,6 +40,8 @@
 
 2022-02-24 08:17 [How to Use Google to Hack(Googledorks)](https://null-byte.wonderhowto.com/how-to/use-google-hack-googledorks-0163566/)
 
+2022-02-24 08:17 [Huge list of CSEs Cutesy of GLENN GUTMACHER 5/26/20](https://accounts.google.com/v3/signin/identifier?dsh=S-738057911%3A1659825231281686&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k%2Fedit%3Fusp%3Dsharing&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWft6IMd4_qcHVbsT4ugt7MMzmNvtlReGE4xj3lKnMPMNTKl3Gb-eSb3qyy__MN5-BWAKIC1A)
+
 2022-02-24 08:17 [Huge list of CSEs Cutesy of GLENN GUTMACHER 5/26/20](https://accounts.google.com/v3/signin/identifier?dsh=S872651558%3A1659824024237289&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k%2Fedit%3Fusp%3Dsharing&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmU0hvVjDOazbN3ykI8LBFRVC0h-8oY1GISJbx8IRVDyTxO3s0a80aRvTvRTTQ1Ed1zCyIku)
 
 2022-02-24 08:17 [Linkedin Contact Extractor](https://cse.google.com/cse?cx=001394533911082033616%3Atm5y1wqwmme)
@@ -65,8 +67,6 @@
 2022-02-24 08:17 [Useful Google dorks](https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc)
 
 2022-02-24 08:17 [werdlists](https://decal.github.io/werdlists/search-dorks)
-
-2022-02-24 08:17 [Huge list of CSEs Cutesy of GLENN GUTMACHER 5/26/20](https://accounts.google.com/v3/signin/identifier?dsh=S-738057911%3A1659825231281686&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1w9f0Iq_UxstH04sN9ilOUI3aI6NRn5ib6aEhyrPES2k%2Fedit%3Fusp%3Dsharing&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmWft6IMd4_qcHVbsT4ugt7MMzmNvtlReGE4xj3lKnMPMNTKl3Gb-eSb3qyy__MN5-BWAKIC1A)
 
 
 
