@@ -16,9 +16,9 @@
 
 2021-12-14 21:22 [Anyone have good DayOne automation? - iOS - Automators Talk](https://talk.automators.fm/t/anyone-have-good-dayone-automation/1653)
 
-2022-01-12 20:44 [Bullet Journaling with Drafts - Actions - Share What You&amp;apos;ve Made - Drafts Community](https://forums.getdrafts.com/t/bullet-journaling-with-drafts/9637/9)
-
 2022-01-12 20:43 [Bullet Journaling with Drafts - Actions - Share What You&amp;apos;ve Made - Drafts Community](https://forums.getdrafts.com/t/bullet-journaling-with-drafts/9637)
+
+2022-01-12 20:44 [Bullet Journaling with Drafts - Actions - Share What You&amp;apos;ve Made - Drafts Community](https://forums.getdrafts.com/t/bullet-journaling-with-drafts/9637/9)
 
 2021-12-14 21:03 [Day One — Basic Apple Guy](https://basicappleguy.com/basicappleblog/day-one)
 
