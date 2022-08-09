@@ -1,4 +1,4 @@
-######  Host-Domains
+####  Host-Domains
 
 2022-02-24 08:17 [&quot;&gt;&quot;Boomla Website Builder](https://boomla.com/)
 
@@ -59,10 +59,6 @@
 2022-02-24 08:17 [Hostman - cloud platform that deploys and scales your web applications](https://hostman.com/)
 
 2022-03-17 18:10 [HostMaze.com | VPS | KVM VDS | Unmetered](https://hostmaze.com/)
-
-2022-03-15 15:46 [https://share.dmca.gripe/gLvdEVu9e6Osl26P.txt](https://share.dmca.gripe/gLvdEVu9e6Osl26P.txt)
-
-2022-03-15 15:46 [https://weboas.is/media/host.pdf](https://weboas.is/media/host.pdf)
 
 2022-03-18 13:18 [Managed WordPress Server Hosting](https://pagefog.com/)
 
