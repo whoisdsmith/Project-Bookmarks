@@ -1,4 +1,4 @@
-#####  Terminal
+####  Terminal
 
 2022-02-26 15:04 [&quot;&gt;A-Shell: Terminal for iOS | Hacker News](https://news.ycombinator.com/item?id=22989950)
 
@@ -28,6 +28,8 @@
 
 2022-03-17 20:05 [&quot;&gt;Scoop](https://scoop.sh/)
 
+2022-08-05 16:11 [@olaolum/scaffy - npm](https://www.npmjs.com/package/@olaolum/scaffy?ref=producthunt)
+
 2021-12-22 11:36 [0nn0/terminal-mac-cheatsheet: List of my most used commands and shortcuts in the terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet#shortcuts)
 
 2022-03-11 08:17 [3v4l.org - online PHP shell with 250+ PHP versions](https://3v4l.org/)
@@ -36,11 +38,17 @@
 
 2022-02-24 08:17 [A good terminal experience with iTerm2 and ZSH on macOS | by Julien Ponge | Medium](https://jponge.medium.com/a-good-terminal-experience-with-iterm2-and-zsh-on-macos-439c106aa22d)
 
+2022-08-05 16:24 [Automated dependency updates with pull requests - Deps](https://www.dependencies.io/)
+
 2022-03-11 09:35 [cmd.to](https://cmd.to/fm)
 
 2022-03-12 17:02 [Cool, but obscure unix tools :: Software architect Kristof Kovacs](https://kkovacs.eu/cool-but-obscure-unix-tools/)
 
 2022-07-07 12:21 [Earthly - Better Builds](https://earthly.dev/)
+
+2022-08-05 16:14 [fish shell](https://fishshell.com/?ref=producthunt)
+
+2022-08-05 23:45 [Freshenv - Isolated Productive Developer Environments](https://freshenv.io/)
 
 2022-01-17 23:38 [GitHub - ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix)
 
@@ -62,11 +70,27 @@
 
 2021-12-27 12:05 [thefuck](https://github.com/nvbn/thefuck)
 
+2022-08-05 16:18 [Tunshell - Remote shell into ephemeral environments](https://tunshell.com/?ref=producthunt)
+
 2022-01-17 23:38 [Vertical](https://vertical.carrd.co/)
 
 2022-03-15 14:26 [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 
 2022-03-12 18:33 [ZimTools](https://zimtools.xyz/)
+
+######  CLI
+
+2022-07-06 16:11 [🌈 Awesome CLI Workshoppers | LandOf.Dev](https://landof.dev/awesome/cli-workshoppers/)
+
+2022-05-22 18:28 [awk - remove duplicate lines across multiple txt files - Unix &amp; Linux Stack Exchange](https://unix.stackexchange.com/questions/686377/remove-duplicate-lines-across-multiple-txt-files)
+
+2022-07-16 20:52 [Coldbrew](https://coldbrew.doom.sh/?ref=producthunt)
+
+2022-07-16 16:01 [Commands.dev - Find commands at the speed of thought](https://www.commands.dev/)
+
+2022-07-16 20:34 [Fig](https://fig.io/manual)
+
+2022-08-05 16:17 [Snipline | One shell command organizer to rule them all](https://snipline.io/?ref=producthunt)
 
 
 
