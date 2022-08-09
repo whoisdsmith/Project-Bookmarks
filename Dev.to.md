@@ -48,8 +48,6 @@
 
 2022-08-07 02:02 [The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀 - DEV Community](https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g)
 
-2022-08-07 02:02 [This Connection Is Not Private](https://www.aerobatic.com/)
-
 2022-08-07 02:02 [What is Azure Static Web Apps? | Microsoft Docs](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
 
 2022-08-07 02:02 [Whatdoestheinternetthink.net - What does the internet think?](http://www.whatdoestheinternetthink.net/)
