@@ -30,7 +30,7 @@
 
 2022-07-03 22:48 [Dashboard - CLOUD9](https://cloud9.ctrlaltback.space/index.php/apps/dashboard/)
 
-2022-07-15 16:11 [Google Developer Profile  |  Google Developers](https://developers.google.com/profile/u/whoisdsmith/dashboard)
+2022-07-15 16:11 [Google Developer Profile &amp;nbsp;|&amp;nbsp; Google Developers](https://developers.google.com/profile/u/whoisdsmith/dashboard)
 
 2022-07-06 20:36 [Introduction — Nextcloud latest Administration Manual latest documentation](https://docs.nextcloud.com/server/stable/admin_manual/)
 
