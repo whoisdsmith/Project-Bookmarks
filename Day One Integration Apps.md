@@ -18,8 +18,6 @@
 
 2021-12-14 15:48 [Drafts on the App Store](https://apps.apple.com/us/app/drafts/id1236254471)
 
-2021-12-14 21:12 [‎Editorial](https://apps.apple.com/us/app/editorial/id673907758)
-
 2021-12-14 15:48 [Evernote - Notes Organizer on the App Store](https://apps.apple.com/us/app/evernote-notes-organizer/id281796108)
 
 2021-12-14 15:48 [Exist on the App Store](https://apps.apple.com/us/app/exist/id986201088)
@@ -59,8 +57,6 @@
 2021-12-14 15:48 [Shortcuts on the App Store](https://apps.apple.com/us/app/shortcuts/id1462947752)
 
 2021-12-14 21:25 [TextExpander Crossover - Journal faster, remember more with Day One](https://textexpander.com/blog/textexpander-crossover-journal-faster-remember-more-with-day-one)
-
-2021-12-14 16:14 [‎Toolbox Pro for Shortcuts](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977)
 
 2021-12-14 15:48 [Welltory: Heart-Rate Monitor on the App Store](https://apps.apple.com/us/app/welltory-heart-rate-monitor/id1074367771)
 
