@@ -18,7 +18,13 @@
 
 2021-12-16 06:21 [Prometheus - Monitoring system &amp; time series database](https://prometheus.io/)
 
+2022-08-07 09:56 [Scrape and Monitor Data from Any Website with No…](https://www.browse.ai/?ref=freeStuffDev)
+
+2022-08-05 15:31 [Sensorpad: Monitoring for Data Pipelines and Cron Jobs](https://sensorpad.io/)
+
 2022-07-03 08:48 [Setup | Datadog](https://app.datadoghq.com/account/login?next=%2Faccount%2Fsettings#api)
+
+2022-08-06 03:26 [Supabase | Supabase](https://app.supabase.com/)
 
 
 
