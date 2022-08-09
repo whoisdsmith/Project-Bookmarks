@@ -56,8 +56,6 @@
 
 2021-10-24 14:07 [DayOne](https://github.com/utkarshjaiswal/DayOne)
 
-2021-10-24 14:07 [dayone](https://github.com/myles/dayone)
-
 2021-10-24 14:07 [DayOne_Editor](https://github.com/TPei/DayOne_Editor)
 
 2021-10-24 14:07 [dayone_export](https://github.com/nathangrigg/dayone_export)
