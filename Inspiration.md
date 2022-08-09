@@ -1,4 +1,4 @@
-######  Inspiration
+####  Inspiration
 
 2022-03-19 01:30 [Arwes](https://arwes.dev/)
 
