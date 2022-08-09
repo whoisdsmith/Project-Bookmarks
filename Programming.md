@@ -1,4 +1,4 @@
-####  Programming
+###  Programming
 
 2021-12-16 22:13 [&quot;&gt;Compare 594 Static Analysis Tools For All Programming Languages](https://analysis-tools.dev/)
 
@@ -21,6 +21,8 @@
 2022-01-20 17:26 [Building a Simple timeline React component](https://andresjpulido.medium.com/building-a-simple-timeline-react-component-5a782501fbb5)
 
 2022-03-11 09:24 [Carbon](https://carbon.now.sh/)
+
+2022-08-06 00:03 [Codeshare - Share code in real-time with developers in your browser](https://codeshare.io/?ref=devresourc.es)
 
 2022-01-22 22:05 [Get list of all files in Google Photos](https://stackoverflow.com/questions/36871477/get-list-of-all-files-in-google-photos)
 
@@ -46,7 +48,7 @@
 
 2022-03-17 19:19 [What are the trending open source and SaaS tools that developers use in 2022?](https://stackshare.io/tools/trending)
 
-######  Code Editors
+#####  Code Editors
 
 2022-03-17 17:59 [&quot;&gt;[Preview] README.md - conwnet/github1s - GitHub1s](https://github1s.com/)
 
@@ -58,6 +60,10 @@
 
 2021-11-07 16:08 [Atom text editor](https://atom.io/)
 
+2022-08-06 00:03 [CodePen: Online Code Editor and Front End Web Developer Community](https://codepen.io/?ref=devresourc.es)
+
+2022-03-17 20:36 [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/)
+
 2022-01-17 23:38 [GitHub - onivim/oni2: Native, lightweight modal code editor](https://github.com/onivim/oni2)
 
 2021-12-26 21:22 [Prettier · Opinionated Code Formatter](https://prettier.io/?ref=producthunt)
@@ -68,13 +74,13 @@
 
 
 
-######  Database
+#####  Database
 
 2021-11-30 13:09 [&quot;&gt;Tour - Topincs](https://www.topincs.com/tour)
 
 
 
-######  Developer
+#####  Developer
 
 2022-03-17 06:55 [&quot;&gt;Closure Compiler Service](https://closure-compiler.appspot.com/home)
 
@@ -102,13 +108,13 @@
 
 
 
-######  Javascript
+#####  Javascript
 
 2022-03-31 07:41 [CodeSnippet.Run - JavaScript code snippet runner for Web](https://www.codesnippet.run/?ref=producthunt)
 
 
 
-######  JSON
+#####  JSON
 
 2022-01-11 15:01 [&quot;&gt;JSON Storage &amp; JSON Hosting Service - JSONBin.io](https://jsonbin.io/?ref=producthunt)
 
@@ -116,7 +122,7 @@
 
 
 
-######  Markdown
+#####  Markdown
 
 2022-01-17 14:49 [&quot;&gt;dyrobooks](https://dyrobooks.com/blog/2018/02/10/a-markdown-cheatsheet/)
 
@@ -154,7 +160,7 @@
 
 
 
-######  Python
+#####  Python
 
 2022-01-17 23:38 [&quot;&gt;Nuitka the Python Compiler](https://nuitka.net/)
 
@@ -162,7 +168,7 @@
 
 
 
-######  Regex
+#####  Regex
 
 2022-03-12 14:28 [&quot;&gt;Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
 
@@ -176,7 +182,7 @@
 
 
 
-######  Terminal
+#####  Terminal
 
 2022-02-26 15:04 [&quot;&gt;A-Shell: Terminal for iOS | Hacker News](https://news.ycombinator.com/item?id=22989950)
 
@@ -206,6 +212,8 @@
 
 2022-03-17 20:05 [&quot;&gt;Scoop](https://scoop.sh/)
 
+2022-08-05 16:11 [@olaolum/scaffy - npm](https://www.npmjs.com/package/@olaolum/scaffy?ref=producthunt)
+
 2021-12-22 11:36 [0nn0/terminal-mac-cheatsheet: List of my most used commands and shortcuts in the terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet#shortcuts)
 
 2022-03-11 08:17 [3v4l.org - online PHP shell with 250+ PHP versions](https://3v4l.org/)
@@ -214,11 +222,17 @@
 
 2022-02-24 08:17 [A good terminal experience with iTerm2 and ZSH on macOS | by Julien Ponge | Medium](https://jponge.medium.com/a-good-terminal-experience-with-iterm2-and-zsh-on-macos-439c106aa22d)
 
+2022-08-05 16:24 [Automated dependency updates with pull requests - Deps](https://www.dependencies.io/)
+
 2022-03-11 09:35 [cmd.to](https://cmd.to/fm)
 
 2022-03-12 17:02 [Cool, but obscure unix tools :: Software architect Kristof Kovacs](https://kkovacs.eu/cool-but-obscure-unix-tools/)
 
 2022-07-07 12:21 [Earthly - Better Builds](https://earthly.dev/)
+
+2022-08-05 16:14 [fish shell](https://fishshell.com/?ref=producthunt)
+
+2022-08-05 23:45 [Freshenv - Isolated Productive Developer Environments](https://freshenv.io/)
 
 2022-01-17 23:38 [GitHub - ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix)
 
@@ -240,11 +254,27 @@
 
 2021-12-27 12:05 [thefuck](https://github.com/nvbn/thefuck)
 
+2022-08-05 16:18 [Tunshell - Remote shell into ephemeral environments](https://tunshell.com/?ref=producthunt)
+
 2022-01-17 23:38 [Vertical](https://vertical.carrd.co/)
 
 2022-03-15 14:26 [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 
 2022-03-12 18:33 [ZimTools](https://zimtools.xyz/)
+
+######  CLI
+
+2022-07-06 16:11 [🌈 Awesome CLI Workshoppers | LandOf.Dev](https://landof.dev/awesome/cli-workshoppers/)
+
+2022-05-22 18:28 [awk - remove duplicate lines across multiple txt files - Unix &amp; Linux Stack Exchange](https://unix.stackexchange.com/questions/686377/remove-duplicate-lines-across-multiple-txt-files)
+
+2022-07-16 20:52 [Coldbrew](https://coldbrew.doom.sh/?ref=producthunt)
+
+2022-07-16 16:01 [Commands.dev - Find commands at the speed of thought](https://www.commands.dev/)
+
+2022-07-16 20:34 [Fig](https://fig.io/manual)
+
+2022-08-05 16:17 [Snipline | One shell command organizer to rule them all](https://snipline.io/?ref=producthunt)
 
 
 
