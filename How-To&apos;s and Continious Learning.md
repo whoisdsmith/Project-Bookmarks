@@ -1,4 +1,4 @@
-#####  How-To&apos;s and Continious Learning
+####  How-To&apos;s and Continious Learning
 
 2022-03-11 07:50 [&quot;&gt;ACME Laboratories](http://www.acme.com/)
 
@@ -25,8 +25,6 @@
 2022-05-22 18:33 [[Solved] Remove Duplicate Lines From Text File? - Local Coder](https://localcoder.org/remove-duplicate-lines-from-text-file)
 
 2021-12-16 15:39 [A Beginner’s Guide to Git — How to Start and Create your First Repository](https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/)
-
-2021-12-23 16:35 [A Framework meant for the exploitation of iOS devices. | PythonRepo](https://pythonrepo.com/repo/0x1CA3-iPwn)
 
 2022-07-10 21:12 [Agent CLI | Your Self-Sovereign Assistant | Powered By Animo](https://agent-cli.animo.id/?ref=producthunt)
 
@@ -127,6 +125,8 @@
 2022-01-17 23:38 [&quot;&gt;cppreference.com](https://en.cppreference.com/w)
 
 2022-03-12 17:05 [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
+
+2022-08-05 00:27 [Cheatsheets - roy4801&amp;apos;s cheatsheet](https://docs.roy4801.tw/cheatsheets/)
 
 2022-01-14 09:28 [Devhints — TL;DR for developer documentation](https://devhints.io/)
 
