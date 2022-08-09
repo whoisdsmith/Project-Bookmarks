@@ -14,8 +14,6 @@
 
 2021-12-28 17:36 [Cavapi](https://cavapi.com/?ref=producthunt)
 
-2022-03-03 09:10 [Chirp Ai](https://www.chirpai.com/?ref=producthunt)
-
 2022-03-03 08:48 [Dev Army Knife](https://devarmyknife.hackersreboot.tech/?ref=producthunt)
 
 2022-03-28 06:50 [Drift](https://drift.maxleiter.com/?ref=producthunt)
