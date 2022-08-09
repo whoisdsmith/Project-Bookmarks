@@ -1,4 +1,4 @@
-#####  AWESOME
+####  AWESOME
 
 2022-03-15 20:27 [&quot;&gt;Awesome Search](https://awesomelists.top/#/)
 
