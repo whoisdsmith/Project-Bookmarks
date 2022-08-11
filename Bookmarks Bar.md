@@ -1,5 +1,9 @@
 ##  Bookmarks Bar
 
+2022-08-10 14:45 [Automa - An extension for browser automation - Automa](https://www.automa.site/)
+
+2022-08-10 16:14 [OSX](https://raindrop.io/whoisdsmith/osx-26657196)
+
 ####  Apps
 
 2022-07-02 16:08 [Prisma](https://www.prisma.io/)
@@ -3207,6 +3211,68 @@
 2022-08-10 09:19 [ghexports](https://export-github-stars.netlify.app/)
 
 2022-08-10 09:20 [kirtan403/bookmark-github-stars: Generate Bookmarks export file (html) of the github user's starred repos](https://github.com/kirtan403/bookmark-github-stars)
+
+2022-08-10 09:26 [🌀  A curated list of Creative Portfolios](https://github.com/iRaul/creative-portfolios)
+
+2022-08-10 09:59 [salomonelli/best-resume-ever: Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.](https://github.com/salomonelli/best-resume-ever)
+
+2022-08-10 10:00 [hacksalot/HackMyResume: Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.](https://github.com/hacksalot/HackMyResume)
+
+2022-08-10 10:01 [resume/resume.github.com: Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)
+
+2022-08-10 10:05 [prat0318/json_resume: Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON](https://github.com/prat0318/json_resume)
+
+2022-08-10 10:16 [girishgr8/Resume-Builder: Creating a resume is a bit tedious task for any working professional from any industry. One has to keep it short, simple, and with the latest work experience. This Resume Builder project will help to build your resume-builder by auto-generating it on your own and helping working professionals with the same using ReactJS and NodeJS frameworks.](https://github.com/girishgr8/Resume-Builder)
+
+2022-08-10 10:19 [navdeepsekhon/portfolio-generator: JS framework to dynamically generate a portfolio site from a JSON file](https://github.com/navdeepsekhon/portfolio-generator)
+
+2022-08-10 10:27 [Biswajee/CV-Generator: A web app that generates impressive resume for free. Built on Django and Jinja2 template engine. This web app comes with its own API which returns user's resume data as json object.](https://github.com/Biswajee/CV-Generator)
+
+2022-08-10 11:48 [tbaltrushaitis/cv: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.](https://github.com/tbaltrushaitis/cv)
+
+2022-08-10 12:02 [DiptoChakrabarty/Resume-Generator: A Resume builder which allows users to build their own custom resumes with details like experience,projects , skills ,education etc. Users can also have the feature to download their resumes . To contribute send PR at development branch from where it will be merged in master once checked.](https://github.com/DiptoChakrabarty/Resume-Generator)
+
+2022-08-10 12:06 [JeelGajera/resume-builder: Resume-Builder React Web Application](https://github.com/JeelGajera/resume-builder)
+
+2022-08-10 12:06 [Hallcoder/resume-builder: Awesome resume-builder coming at rescue for all these paid resume-builders out there](https://github.com/Hallcoder/resume-builder)
+
+2022-08-10 12:07 [hernanjkd/Resume-Builder: React. Creates a dynamic resume that can be easily modified. Experience and skill cards can be edited.](https://github.com/hernanjkd/Resume-Builder)
+
+2022-08-10 12:42 [Aliherawi7/resume-builder: build your resume free and easy](https://github.com/Aliherawi7/resume-builder)
+
+2022-08-10 12:47 [malcodeman/resumebuilder.dev: Free resume builder for developers.](https://github.com/malcodeman/resumebuilder.dev)
+
+2022-08-10 12:49 [AmruthPillai/Reactive-Resume: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!](https://github.com/AmruthPillai/Reactive-Resume)
+
+2022-08-10 12:54 [sadanandpai/resume-builder: Build a standard and professional single page resume](https://github.com/sadanandpai/resume-builder)
+
+2022-08-10 12:55 [sramezani/resume-builder: Modern real-time design and 100% free resume builder.](https://github.com/sramezani/resume-builder)
+
+2022-08-10 12:55 [suddi/suddi.github.io: A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.io/)](https://github.com/suddi/suddi.github.io)
+
+2022-08-10 12:55 [resuminator/resuminator: Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop &amp; WYSIWYG editor](https://github.com/resuminator/resuminator)
+
+2022-08-10 12:56 [resume-nation/resume-nation.github.io: An open source progressive resume builder which works offline](https://github.com/resume-nation/resume-nation.github.io)
+
+2022-08-10 12:58 [sproogen/modern-resume-theme: A modern static resume template and theme. Powered by Jekyll and GitHub pages.](https://github.com/sproogen/modern-resume-theme)
+
+2022-08-10 13:00 [Satyam1203/resume-github: Generate a Resume of your Github Profile using your username.](https://github.com/Satyam1203/resume-github)
+
+2022-08-10 20:32 [molly/static-timeline-generator: Create static timeline webpages.](https://github.com/molly/static-timeline-generator)
+
+2022-08-10 20:33 [mnrkbys/ma2tl: macOS forensic timeline generator using the analysis result DBs of mac_apt](https://github.com/mnrkbys/ma2tl)
+
+2022-08-10 20:34 [garimasingh128/gitsetgo: A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.](https://github.com/garimasingh128/gitsetgo)
+
+2022-08-10 20:35 [kodestudio/neon: Simple static site generator (not sure) for display the repository's (GitHub) events on a timeline.](https://github.com/kodestudio/neon)
+
+2022-08-10 20:37 [GabrieleVir/Timeline-generator: A generator of timelines](https://github.com/GabrieleVir/Timeline-generator)
+
+2022-08-10 20:41 [terror/github-timeline: Timeline generator using Github API](https://github.com/terror/github-timeline)
+
+2022-08-10 20:42 [MichaelCurrin/html-timeline-generator: Browser tool to create pretty HTML timelines](https://github.com/MichaelCurrin/html-timeline-generator)
+
+2022-08-10 20:59 [Tanuj-tj/PortfolioGenerator: DevSearch is a Professional Portfolio generator web application where users are allowed to maintain their profiles, add projects, and also can interact with one another.](https://github.com/Tanuj-tj/PortfolioGenerator)
 
 
 
